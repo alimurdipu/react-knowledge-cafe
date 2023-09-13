@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/5vzRNsD/50-Books-You-Should-Judge-By-Their-Covers-Indieground-Design.png",
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "author_img": "https://i.ibb.co/xqVHnJC/Amazing-Retro-Vintage-Drawing-Illustration-Posters.jpg",
+    "posted_date": "2023-09-13",
+    "reading_time": 22,
+    "hashtags": ["novel", "classics", "gardening"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/kShZXMh/flat-lay-workstation-with-copy-space-laptop.jpg",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "author_img": "https://i.ibb.co/gMW4gxC/mee.jpg",
+    "posted_date": "2023-09-12",
+    "reading_time": 23,
+    "hashtags": ["novel", "classic literature", "1920s"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/YbFdnvK/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "author_img": "https://i.ibb.co/DzfxGFW/image.jpg",
+    "posted_date": "2023-09-11",
+    "reading_time": 11,
+    "hashtags": ["fantasy", "adventure", "Middle-earth"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/417r6wp/annie-spratt-OWq8w3-BYMFY-unsplash.jpg",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "author_img": "https://i.ibb.co/KKnBBk5/Divya-Author-and-Yoga-Branding-Photoshoot-Emily-Kim-Photography.jpg",
+    "posted_date": "2023-09-10",
+    "reading_time": 34,
+    "hashtags": ["novel", "racial justice", "Southern Gothic"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/2nQbWc1/daria-nepriakhina-x-Y55b-L5m-ZAM-unsplash.jpg",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "author_img": "https://i.ibb.co/CVD08rq/Author-headshot-session-for-the-incredibly-talented-Alexandra-Bracken.jpg",
+    "posted_date": "2023-09-09",
+    "reading_time": 12,
+    "hashtags": ["novel", "coming of age", "teen angst"]
+  }
+]        
